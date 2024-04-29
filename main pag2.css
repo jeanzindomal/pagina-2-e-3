@@ -1,20 +1,26 @@
 h1 {
     text-align: center;
+    color: rgb(197, 12, 12);
 }
 
-
-h2 {}
-
-h3 {
-    font-size: x-large;
+.img-seguranca-da-informacao {
+    width: "300";
+    height: "200";
 }
 
-
-h5 {
-    font-size: x-large;
+.flex-container {
+    display: flex;
+    flex-direction: row;
 }
 
+.elementos {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(197, 12, 12);
+    border: 1px beige;
+   
+}
 
-p.1 {
-    font-size: xx-large;
+.nome{
+    color: white;
 }

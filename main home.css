@@ -1,14 +1,6 @@
-h1{
+h1 {
     text-align: center;
-    color: rgb(192, 125, 192);
 }
-
-
-.imagem-qualidade-software{
-    width: 1080px;
-    height: 1080px;
-}
-
 
 .flex-container {
     display: flex;
@@ -18,10 +10,10 @@ h1{
 .elementos {
     width: 100px;
     height: 100px;
-    background-color:  rgb(192, 125, 192);
+    background-color: black;
     border: 1px beige;
-
 }
+
 
 .nome {
     color: white;

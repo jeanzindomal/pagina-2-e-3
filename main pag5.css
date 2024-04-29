@@ -1,14 +1,14 @@
 h1{
     text-align: center;
-    color: rgb(192, 125, 192);
+    color: blue;
 }
 
 
-.imagem-qualidade-software{
+.imagem-analise-ux{
     width: 1080px;
     height: 1080px;
+    position: relative;
 }
-
 
 .flex-container {
     display: flex;
@@ -18,7 +18,7 @@ h1{
 .elementos {
     width: 100px;
     height: 100px;
-    background-color:  rgb(192, 125, 192);
+    background-color: blue;
     border: 1px beige;
 
 }
