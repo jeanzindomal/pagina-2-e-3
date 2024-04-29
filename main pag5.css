@@ -10,12 +10,8 @@ h1{
     position: relative;
 }
 
-.flex-container {
-    display: flex;
-    flex-direction: row;
-}
 
-.elementos {
+.button{
     width: 100px;
     height: 100px;
     background-color: blue;

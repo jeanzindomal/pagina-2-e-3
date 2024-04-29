@@ -10,12 +10,8 @@ h1{
 }
 
 
-.flex-container {
-    display: flex;
-    flex-direction: row;
-}
 
-.elementos {
+.button {
     width: 100px;
     height: 100px;
     background-color: rgb(255, 217, 91);

@@ -2,12 +2,20 @@ h1 {
     text-align: center;
 }
 
-.flex-container {
-    display: flex;
-    flex-direction: row;
+.imagem-robo{
+
 }
 
-.elementos {
+.flex-container-juntar-imagem{
+    position: relative;
+    margin: 100px;
+    padding: 5px;
+    display: flex;
+    -ms-layout-grid: ;
+}
+
+
+.button{
     width: 100px;
     height: 100px;
     background-color: black;
